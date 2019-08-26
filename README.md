@@ -268,6 +268,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Pusher Beams](https://pusher.com/beams) | Push notifications for Android & iOS | `apiKey` | Yes | Unknown |
 | [QR code](http://qrtag.net/api/) | Create an easy to read QR code and URL shortener | No | Yes | Yes |
 | [QR code](http://goqr.me/api/) | Generate and decode / read QR code graphics | No | Yes | Unknown |
+| [Image-Charts](https://image-charts.com/) | Generate charts, QR codes and graph images | No | Yes | Yes |
 | [QuickChart](https://quickchart.io/) | Generate chart and graph images | No | Yes | Yes |
 | [ReqRes](https://reqres.in/ ) | A hosted REST-API ready to respond to your AJAX requests | No | Yes | Unknown |
 | [Scrape Website Email](https://market.mashape.com/tommytcchan/scrape-website-email) | Grabs email addresses from a URL | `X-Mashape-Key` | Yes | Unknown |
